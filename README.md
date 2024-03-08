@@ -1,0 +1,1 @@
+# Foster Commerce ECS Rules

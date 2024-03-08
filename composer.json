@@ -1,0 +1,16 @@
+{
+    "name": "fostercommerce/ecs",
+    "autoload": {
+        "psr-4": {
+            "fostercommerce\\ecs\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "craftcms/ecs": "dev-main",
+        "symplify/easy-coding-standard": "^10.3"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
